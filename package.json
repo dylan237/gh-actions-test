@@ -14,7 +14,7 @@
     "lint": "vue-cli-service lint",
     "commit": "git add . && git-cz",
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "publish": "git push --follow-tags"
+    "postversion": "git push --follow-tags"
   },
   "config": {
     "commitizen": {
