@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="fix">
-      <button @click="showPopup">create</button>
+      <button @click="showPopup">popup</button>
     </div>
   </div>
 </template>
