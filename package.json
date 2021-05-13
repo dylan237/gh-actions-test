@@ -2,7 +2,7 @@
   "name": "@dylan237/vue-dynamic-component",
   "author": "dylan237 <dylan.liu237@gmail.com>",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dylan237/npm-publish-gh-actions.git"
