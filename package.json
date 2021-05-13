@@ -1,6 +1,5 @@
 {
   "name": "vue-dynamic-component",
-  "version": "1.1.1",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -66,5 +65,6 @@
     "vuejs",
     "starter"
   ],
-  "description": "Vue.js example starter project"
+  "description": "Vue.js example starter project",
+  "version": "1.0.0"
 }
