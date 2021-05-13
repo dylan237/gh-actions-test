@@ -1,3 +1,7 @@
+## [1.0.3](https://github.com/dylan237/npm-publish-gh-actions/compare/v1.0.2...v1.0.3) (2021-05-13)
+
+
+
 ## 1.0.2 (2021-05-13)
 
 
